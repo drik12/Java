@@ -24,7 +24,7 @@ public class HCFandLCM {
 
         int lcm= (num1 * num2)/hcf;
 
-        System.out.println("HCF(GCD) =" + hcf);
+        System.out.println("HCF(GCD) = " + hcf);
         System.out.println("LCM = " + lcm);
 
     }
